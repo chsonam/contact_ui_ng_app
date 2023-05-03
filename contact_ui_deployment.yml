@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: contactuicontainer
-      image: sonamch/contact_ui_app
+      image: sonamch/uiapp
       ports:
       - containerPort: 80
 ---
